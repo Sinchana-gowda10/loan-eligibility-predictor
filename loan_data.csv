@@ -1,0 +1,11 @@
+Age,Income,Education,CreditScore,Married,LoanApproved
+25,40000,Bachelor,700,Yes,Yes
+35,60000,Master,750,Yes,Yes
+28,30000,High School,500,No,No
+40,80000,Bachelor,800,Yes,Yes
+23,25000,High School,480,No,No
+45,90000,PhD,820,Yes,Yes
+30,50000,Bachelor,680,No,Yes
+34,55000,Master,710,Yes,Yes
+27,45000,High School,620,No,No
+38,70000,PhD,770,Yes,Yes
